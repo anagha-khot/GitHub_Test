@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     
     NSLog(@"DID Finish called");
+        NSLog(@"DID Finish called.........");
     
     return YES;
 }
