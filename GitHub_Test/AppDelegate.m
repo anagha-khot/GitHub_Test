@@ -19,6 +19,8 @@
     // Override point for customization after application launch.
     NSLog(@"DID Finish called");
         NSLog(@"After Merge master");
+            NSLog(@"Fork master");
+                NSLog(@"Fork new branch ");
     return YES;
 }
 
