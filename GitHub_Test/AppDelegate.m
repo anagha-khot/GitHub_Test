@@ -26,6 +26,8 @@
     
     NSLog(@"Fork and Merge ");
     
+        NSLog(@"Fork and Merge Test Branch");
+    
     return YES;
 }
 
