@@ -28,6 +28,8 @@
     
         NSLog(@"Fork and Merge Test Branch");
     
+    NSLog(@"After Merge Feature branch");
+    
     return YES;
 }
 
