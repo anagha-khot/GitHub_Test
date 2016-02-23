@@ -21,6 +21,7 @@
         NSLog(@"After Merge master");
             NSLog(@"Fork master");
                 NSLog(@"Fork new branch ");
+                    NSLog(@"Fork and Merge ");
     return YES;
 }
 
