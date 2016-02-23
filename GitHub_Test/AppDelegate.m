@@ -17,9 +17,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
     NSLog(@"DID Finish called");
-        NSLog(@"After Merge master");
-            NSLog(@"Fork master");
+    
     return YES;
 }
 
