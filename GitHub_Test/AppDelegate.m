@@ -22,6 +22,8 @@
     
     NSLog(@"After Merge Feature");
     
+    NSLog(@"After Merge Feature branch");
+    
     return YES;
 }
 
