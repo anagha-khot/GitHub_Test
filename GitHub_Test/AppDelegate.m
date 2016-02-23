@@ -17,8 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
     NSLog(@"DID Finish called");
-        NSLog(@"After Merge Feature");
+    
+    NSLog(@"After Merge Feature");
+    
     return YES;
 }
 
